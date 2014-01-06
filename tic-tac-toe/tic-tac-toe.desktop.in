@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Tic Tac Toe
+_Comment=TicTacToe application
+Categories=GNOME;Utility;
+Exec=tic-tac-toe
+Icon=tic-tac-toe
+Terminal=false
+Type=Application
